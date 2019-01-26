@@ -59,7 +59,7 @@ section {display: flex;}
   padding: 0;
 }
 .nav-list {
-  padding-list: 0;
+  padding-left: : 0;
   width: 575px;
   margin-top: 10px;
 }
@@ -78,7 +78,7 @@ section {display: flex;}
 }
 .account a {font-size: 14px;}
 .profile-pic {width: 60px; height:  60px;}
-.profile-pic {
+.profile-pic img {
   border-radius: 100px;
   max-width: 100%;
 }
