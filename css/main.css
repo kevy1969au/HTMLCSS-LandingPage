@@ -168,6 +168,7 @@ section {display: flex;}
 .full-banner-sidebar {
   flex: 0 0 41.666667%;
   background-color: #364147;
+  text-transform: uppercase;
   padding: 30px;
   color: #ffffff;
 }
@@ -175,6 +176,7 @@ section {display: flex;}
   font-size: 40px;
   font-weight: 700;
   color: #637f94;
+  font-style: italic;
   line-height: 1;
 }
 
@@ -187,7 +189,7 @@ section {display: flex;}
   display: block;
 }
 
-.full-banner-sidebar > div:nth-of-type {
+.full-banner-sidebar > div:nth-of-type(1) {
   font-size: 60px;
   font-weight: 700;
   line-height: 1;
