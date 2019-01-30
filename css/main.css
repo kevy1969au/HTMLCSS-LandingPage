@@ -194,7 +194,7 @@ section {display: flex;}
   font-weight: 700;
   line-height: 1;
 }
-.full-banner-side > div:nth-of-type(2){
+.full-banner-sidebar > div:nth-of-type(2){
   font-size: 25px;
   font-weight: 200;
   letter-spacing: 3px;
